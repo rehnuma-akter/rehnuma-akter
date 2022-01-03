@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning web-development.
 - 👯 I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: rakterruhi@gmail.com
-- ⚡ Fun fact: I like journaling and dancing.
+- ⚡ Fun fact: I like journaling.
